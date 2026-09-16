@@ -64,22 +64,22 @@ Open-source meeting tools provide collaborative minute-taking, self-hosted board
 
 *Note: Repositories are sorted in descending order by GitHub Star count.*
 
-- **[Decidim](https://github.com/decidim/decidim)** [![GitHub stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers)  
+- **[Decidim](https://github.com/decidim/decidim)** [![GitHub_Stars](https://img.shields.io/github/stars/decidim/decidim?style=social&color=white)](https://github.com/decidim/decidim/stargazers)  
   Free, open-source participatory democracy framework for cities and organizations. Supports public proposals, meeting management, assemblies, and decision-making workflows.
 
-- **[4Minitz](https://github.com/4minitz/4minitz)** [![GitHub stars](https://img.shields.io/github/stars/4minitz/4minitz?style=social&color=white)](https://github.com/4minitz/4minitz/stargazers)  
+- **[4Minitz](https://github.com/4minitz/4minitz)** [![GitHub_Stars](https://img.shields.io/github/stars/4minitz/4minitz?style=social&color=white)](https://github.com/4minitz/4minitz/stargazers)  
   Free and open-source web application for collaborative meeting minutes. Supports agenda preparation, live minute-taking, action item tracking, and self-hosting.
 
-- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)** [![GitHub stars](https://img.shields.io/github/stars/OpenSlides/OpenSlides?style=social&color=white)](https://github.com/OpenSlides/OpenSlides/stargazers)  
+- **[OpenSlides](https://github.com/OpenSlides/OpenSlides)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSlides/OpenSlides?style=social&color=white)](https://github.com/OpenSlides/OpenSlides/stargazers)  
   Digital assembly and meeting management system for handling agendas, motions, list of speakers, voting, and real-time presentation.
 
-- **[Meeting-Stream](https://github.com/meeting-stream/meeting-stream)** [![GitHub stars](https://img.shields.io/github/stars/meeting-stream/meeting-stream?style=social&color=white)](https://github.com/meeting-stream/meeting-stream/stargazers)  
+- **[Meeting-Stream](https://github.com/meeting-stream/meeting-stream)** [![GitHub_Stars](https://img.shields.io/github/stars/meeting-stream/meeting-stream?style=social&color=white)](https://github.com/meeting-stream/meeting-stream/stargazers)  
   Open-source meeting recorder and agenda indexing engine for public and municipal live streams.
 
-- **[GovDirectory](https://github.com/govdirectory/govdirectory)** [![GitHub stars](https://img.shields.io/github/stars/govdirectory/govdirectory?style=social&color=white)](https://github.com/govdirectory/govdirectory/stargazers)  
+- **[GovDirectory](https://github.com/govdirectory/govdirectory)** [![GitHub_Stars](https://img.shields.io/github/stars/govdirectory/govdirectory?style=social&color=white)](https://github.com/govdirectory/govdirectory/stargazers)  
   Crowdsourced, open data directory of public agencies and official bodies, supporting public meeting metadata and governance integration.
 
-- **[Meeting-Minutes-App](https://github.com/meeting-minutes/meeting-minutes)** [![GitHub stars](https://img.shields.io/github/stars/meeting-minutes/meeting-minutes?style=social&color=white)](https://github.com/meeting-minutes/meeting-minutes/stargazers)  
+- **[Meeting-Minutes-App](https://github.com/meeting-minutes/meeting-minutes)** [![GitHub_Stars](https://img.shields.io/github/stars/meeting-minutes/meeting-minutes?style=social&color=white)](https://github.com/meeting-minutes/meeting-minutes/stargazers)  
   Lightweight self-hosted tool for capturing public agendas, roll calls, and publishing meeting summary reports.
 
 ---
